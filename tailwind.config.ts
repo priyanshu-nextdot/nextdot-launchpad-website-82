@@ -52,6 +52,20 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+                nextdot: {
+                    50: '#f7f7f8',
+                    100: '#eeeef0',
+                    200: '#d8d9dd',
+                    300: '#b6b7bf',
+                    400: '#8f919d',
+                    500: '#717381',
+                    600: '#5a5c69',
+                    700: '#494a55',
+                    800: '#343540',
+                    900: '#121214',
+                    950: '#09090b',
+                },
+                highlight: '#5B67F3',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
